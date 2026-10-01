@@ -1,15 +1,8 @@
-<br>    
-<br>    
-<br>   
-<br>
-We have moved, please visit us at https://github.com/oscartreader 🚀
-<br>    
-<br>    
-<br>   
-<br>
-<br>    
-<br>    
-<br>   
+This fork picks up where the original OSCR project left off after being archived.
+It was primarily created for testing purposes, but it might also suit people who are more comfortable with the old format.
+
+Historical project (up to v15.6) : https://github.com/sanni/cartreader
+OSCR rework WIP : https://github.com/oscartreader 🚀
 
 ![image](https://dl.dropboxusercontent.com/s/ioc5oewzcuvs8nz/logos.png?dl=1)
 
