@@ -64,8 +64,14 @@ Chuu 1 Ei Suu Koku Pack (Japan) (6FP105).pc2
 Chuu 1 Ei Suu Koku Pack (New Crown, Total English Taiou Ban) (Japan) (6FP103).pc2
 A863F998
 
+Chuu 1 Ei Suu Koku Pack (New Horizon, Columbus21 Taiou Ban) (Japan) (5FP101).pc2
+E6EBC64C
+
 Chuu 1 Ei Suu Koku Pack (New Horizon, Columbus21 Taiou Ban) (Japan) (6FP101).pc2
 2980A25B
+
+Chuu 1 Ei Suu Koku Pack (Sunshine, One World Taiou Ban) (Japan) (5FP102).pc2
+976B8627
 
 Chuu 1 Ei Suu Koku Pack (Sunshine, One World Taiou Ban) (Japan) (6FP102).pc2
 A4BBD00E
@@ -78,6 +84,9 @@ A4719115
 
 Chuu 1 English (New Crown, Total English Taiou Ban) (Japan) (4BB113).pc2
 DDF6D418
+
+Chuu 1 English (New Horizon, Columbus21 Taiou Ban) (Japan) (2BB111).pc2
+E5AE0F0D
 
 Chuu 1 English (New Horizon, Columbus21 Taiou Ban) (Japan) (3BB111).pc2
 8F8F75C4
@@ -103,14 +112,29 @@ FDB39F68
 Chuu 2 Ei Suu Koku Pack (New Crown, Total English Taiou Ban) (Japan) (6FP203).pc2
 1BBB32A0
 
+Chuu 2 Ei Suu Koku Pack (New Crown, Total English Taiou Ban) (Japan) (6FP213).pc2
+8114353C
+
+Chuu 2 Ei Suu Koku Pack (New Horizon, Columbus21 Taiou Ban) (Japan) (4BP201).pc2
+12D96D58
+
 Chuu 2 Ei Suu Koku Pack (New Horizon, Columbus21 Taiou Ban) (Japan) (6FP211).pc2
 2FD8B59E
+
+Chuu 2 Ei Suu Koku Pack (Sunshine, One World Taiou Ban) (Japan) (4BP202).pc2
+4398DF6C
+
+Chuu 2 Ei Suu Koku Pack (Sunshine, One World Taiou Ban) (Japan) (6FP202).pc2
+4C37C017
 
 Chuu 2 Ei Suu Koku Pack (Sunshine, One World Taiou Ban) (Japan) (6FP212).pc2
 D2DBDF31
 
 Chuu 2 English (New Crown, Total English Taiou Ban) (Japan) (3BB213).pc2
 5C679BD3
+
+Chuu 2 English (New Horizon, Columbus21 Taiou Ban) (Japan) (3BB211).pc2
+784FD6FB
 
 Chuu 2 English (Sunshine, One World Taiou Ban) (Japan) (3BB212).pc2
 F1E10E0E
@@ -129,6 +153,12 @@ C14378C8
 
 Chuu 3 Ei - Suu - Koumin Pack (New Horizon, Columbus21 Taiou Ban) (Japan) (5FP301).pc2
 AC84B3D2
+
+Chuu 3 Ei - Suu - Koumin Pack (New Horizon, Columbus21 Taiou Ban) (Japan) (6FP301).pc2
+2A0191E8
+
+Chuu 3 Ei - Suu - Koumin Pack (Sunshine, One World Taiou Ban) (Japan) (6FP302).pc2
+4B956CAF
 
 Chuu 3 English (New Crown, Total English Taiou Ban) (Japan) (4BB313).pc2
 89AF7DB1
@@ -150,6 +180,9 @@ Chuugaku Chiri (Japan) (4BD410).pc2
 
 Chuugaku Chiri - Rekishi Pack (Chiri Soft - Rekishi Soft Kanzen Taiou Ban) (Japan) (2BD400).pc2
 93454B4A
+
+Chuugaku Chiri - Rekishi Pack (Chiri Soft - Rekishi Soft Kanzen Taiou Ban) (Japan) (3BD400).pc2
+2D6A57DA
 
 Chuugaku Chiri - Rekishi Pack (Chiri Soft - Rekishi Soft Kanzen Taiou Ban) (Japan) (4BD400).pc2
 4CFD118D
@@ -516,6 +549,9 @@ C27FAEEB
 
 Koukou Juken EX (Goukaku Tokkou 700) (Japan) (4FI720).pc2
 EC11D3AE
+
+Koukou Juken Kokugo + Nyuushi Kobun Tokkou (Japan) (6FK304).pc2
+A2539BB9
 
 Koukou Juken V Pack - Koukou Juken (5-kamoku), Koukou Juken EX (Goukaku Tokkou 700) Kanzen Taiou Ban (Japan) (5FI900).pc2
 3D4F25B5
